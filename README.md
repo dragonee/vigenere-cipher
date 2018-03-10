@@ -6,8 +6,8 @@ This tool allows for encoding/decoding files using Vigenère cipher.
 
 Main reason to write this was to translate Morrowind documents:
 
-http://en.uesp.net/wiki/Morrowind:Sottilde's_Code_Book
-http://en.uesp.net/wiki/Morrowind:Package_for_Caius_Cosades
+ - http://en.uesp.net/wiki/Morrowind:Sottilde's_Code_Book
+ - http://en.uesp.net/wiki/Morrowind:Package_for_Caius_Cosades
 
 However, it can be used for other purposes too.
 
